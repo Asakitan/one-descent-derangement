@@ -2,9 +2,9 @@
 
 **署名：** Chain.Ren · 独立研究
 
-**版本：** [proof-v1.0.0](https://github.com/Asakitan/one-descent-derangement/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+**版本：** [proof-v1.0.1](https://github.com/Asakitan/one-descent-derangement/releases/tag/proof-v1.0.1) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
 
-本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，未经同行评审。
 
 对 $n\ge2$，在 $1,\ldots,n$ 的所有**恰有一个降点且无固定点**的排列中均匀抽样。设 $X$ 为首项。则
 $$
@@ -25,4 +25,4 @@ $$
 $$
 $\,n=2$ 时中间集合为空，唯一排列为 $(2,1)$，公式仍成立。∎
 
-该类错排的结构和计数早有研究；例如 [Diaconis、McGrath、Pitman（1995）](https://doi.org/10.1007/BF01294457)。本证明用两段表示推导首项统计量，不主张双射本身新颖或已确认全球首证。
+该类错排的结构和计数早有研究；例如 [Diaconis、McGrath、Pitman（1995）](https://doi.org/10.1007/BF01294457)。本证明用两段表示推导首项统计量。
