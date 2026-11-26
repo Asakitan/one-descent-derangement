@@ -7,3 +7,5 @@
 Python 3.9+，仅用标准库。脚本逐个枚举 $n=2,\ldots,8$ 的排列核验完整首项分布；一般 $n$ 的结论由双射证明。
 
 [首页](README.md) · [证明](PROOF.md) · [工作记录](docs/session-log/README.md)
+
+**公开证明版本：** [proof-v1.0.0](https://github.com/Asakitan/one-descent-derangement/releases/tag/proof-v1.0.0)，版本日期 2026-11-26；署名 Chain.Ren（独立研究）。

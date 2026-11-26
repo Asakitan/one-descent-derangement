@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "To cite the independently released proof and verification materials, use the versioned citation below."
+title: "The first entry of a uniformly random one-descent derangement"
+authors:
+  - family-names: "Chain.Ren"
+version: "1.0.0"
+date-released: "2026-11-26"
+url: "https://github.com/Asakitan/one-descent-derangement/releases/tag/proof-v1.0.0"
+repository-code: "https://github.com/Asakitan/one-descent-derangement"
+license: MIT
+preferred-citation:
+  type: report
+  title: "The first entry of a uniformly random one-descent derangement"
+  authors:
+    - family-names: "Chain.Ren"
+  version: "1.0.0"
+  year: 2026
+  url: "https://github.com/Asakitan/one-descent-derangement/blob/proof-v1.0.0/PROOF.md"

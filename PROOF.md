@@ -1,5 +1,11 @@
 # 恰有一个降点的错排，其首项期望
 
+**署名：** Chain.Ren · 独立研究
+
+**版本：** [proof-v1.0.0](https://github.com/Asakitan/one-descent-derangement/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+
 对 $n\ge2$，在 $1,\ldots,n$ 的所有**恰有一个降点且无固定点**的排列中均匀抽样。设 $X$ 为首项。则
 $$
 \mathbb E X=3-2^{-(n-2)}
